@@ -1,2 +1,2 @@
 # Factory-Pattern-Demo
-Factory pattern demo in C sharp
+A simple demo of Factory design pattern.
